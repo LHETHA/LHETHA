@@ -18,7 +18,7 @@ Skills: Python | OSINT | Self-Reliant | Collaborative
  
 [<img src='https://cdn.brandfetch.io/idkKwm0IT0/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B' alt='Reddit' height='40'>](https://www.reddit.com/user/LHETHA)  
 
-[<img src='https://cdn.brandfetch.io/id9yn4jCIC/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B' alt='codewars' height='40'>](https://www.codewars.com/users/LHETHA)   
+[<img src='https://cdn.brandfetch.io/id9yn4jCIC/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B' alt='codewars' height='40'>](https://www.codewars.com/users/LHETHA) <picture><img alt="Codewars Stats" src="https://www.codewars.com/users/LHETHA/badges/large"></picture>
 
 [<img src='https://cdn.brandfetch.io/id-M19oKfL/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B' alt='hackthebox' height='40'>](https://app.hackthebox.com/profile/overview) 
 
