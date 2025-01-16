@@ -14,7 +14,7 @@ Skills: Python | OSINT | Self-Reliant | Collaborative
 
 [<img src='https://cdn.brandfetch.io/idZAyF9rlg/w/1000/h/410/theme/light/logo.png?c=1dxbfHSJFAPEGdCLU4o5B' alt='github' height='40'>](https://github.com/LHETHA) 
 
-[<img src='https://cdn.brandfetch.io/id8Qtt69AT/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B' alt='tryhackme' height='60'>](https://tryhackme.com/r/p/LHETHA)
+[<img src='https://cdn.brandfetch.io/id8Qtt69AT/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B' alt='tryhackme' height='60'>](https://tryhackme.com/r/p/LHETHA)<img src="https://tryhackme-badges.s3.amazonaws.com/LHETHA.png" alt="TryHackMe Stats" height='60' />
  
 [<img src='https://cdn.brandfetch.io/idkKwm0IT0/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B' alt='Reddit' height='40'>](https://www.reddit.com/user/LHETHA)  
 
