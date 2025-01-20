@@ -7,7 +7,7 @@ Skills: Python | OSINT | Self-Reliant | Collaborative
 
 - 🔭 I’m currently working on a habit tracker. 
 - 🌱 I’m currently learning advanced coding concepts. 
-- 📫 How to reach me: DM via Reddit.
+- 📫 How to reach me: DM via Reddit or find a different way.
 
 
 [<img src='https://cdn.brandfetch.io/idkKITAql6/w/400/h/400/theme/light/icon.png?c=1dxbfHSJFAPEGdCLU4o5B' alt='hackerone' height='40'>](https://hackerone.com/lhetha)  
