@@ -4,7 +4,7 @@ I'm a Cybersecurity student with a passion for languages: German (native), Engli
 
 Skills: Python | Project Management | Divergent Thinker | Open-Minded
 
-- 🔭 I’m currently working on a habit tracker. 
+- 🔭 I’m currently working on a CLI notes tracker. 
 - 🌱 I’m currently learning advanced coding concepts. 
 - 📫 How to reach me: DM via Reddit or find a different way.
 
