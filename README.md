@@ -16,7 +16,7 @@ Skills: Python | Project Management | Divergent Thinker | Open-Minded
 
 [<img src='https://cdn.brandfetch.io/id-M19oKfL/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B' alt='hackthebox' height='40'>](https://app.hackthebox.com/profile/overview) 
 
-[<img src='https://cdn.brandfetch.io/id8Qtt69AT/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B' alt='tryhackme' height='60'>](https://tryhackme.com/r/p/LHETHA) <img src="https://tryhackme-badges.s3.amazonaws.com/LHETHA.png" alt="LHETHA's stats on TryHackMe" height='60'/> 
+[<img src='https://haxor.no/resources/svg/tryhackme.svg' alt='tryhackme' height='60'>](https://tryhackme.com/r/p/LHETHA) <img src="https://tryhackme-badges.s3.amazonaws.com/LHETHA.png" alt="LHETHA's stats on TryHackMe" height='60'/> 
 
 [<img src='https://cdn.brandfetch.io/id9yn4jCIC/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B' alt='codewars' height='40'>](https://www.codewars.com/users/LHETHA) <picture><img alt="Codewars Stats" src="https://www.codewars.com/users/LHETHA/badges/large"></picture>
 
