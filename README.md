@@ -4,9 +4,9 @@ I'm a Cybersecurity student with a passion for languages: German (native), Engli
 
 Skills: Python | Project Management | Divergent Thinker | Open-Minded
 
-- 🔭 I’m currently working on a CLI notes tracker. 
+- 🔭 I’m currently working on an Automated Exploitation Framework. 
 - 🌱 I’m currently learning advanced coding concepts. 
-- 📫 How to reach me: DM via Reddit or find a different way.
+- 📫 How to reach me: DM via Reddit, Discord, or find a different way.
 
 [<img src='https://cdn.brandfetch.io/idkKITAql6/w/400/h/400/theme/light/icon.png?c=1dxbfHSJFAPEGdCLU4o5B' alt='hackerone' height='40'>](https://hackerone.com/lhetha)  
 
