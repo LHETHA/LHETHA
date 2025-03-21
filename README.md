@@ -1,4 +1,4 @@
-### <p align="center">I'm LHETHA.</p> <p align="center"> <picture> <img src='https://w0.peakpx.com/wallpaper/709/520/HD-wallpaper-nier-automata-2b-nier-automata-elbow-gloves-animals-birds-nier.jpg' alt='profile picture' height='200'> </picture> </p>
+### <p align="center">I'm LHETHA.</p> <p align="center"> <picture> <img src='https://w0.peakpx.com/wallpaper/709/520/HD-wallpaper-nier-automata-2b-nier-automata-elbow-gloves-animals-birds-nier.jpg' alt='profile picture - not my artwork - character is 2B from NieR: Automata' height='200'> </picture> </p>
 
 I'm a Cybersecurity student with a passion for languages: German (native), English (C2+), Russian (B1+), & Japanese (A1)
 
