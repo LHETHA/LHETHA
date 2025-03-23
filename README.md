@@ -4,7 +4,7 @@ I'm a Cybersecurity student with a passion for languages: German (native), Engli
 
 Skills: Python | Project Management | Divergent Thinker | Open-Minded
 
-- 🔭 I’m currently working on an Automated Exploitation Framework. 
+- 🔭 I’m currently working on an Automated Exploitation Framework (I need some projects for my CV lol). 
 - 🌱 I’m currently learning advanced coding concepts. 
 - 📫 How to reach me: DM via Reddit, Discord, or find a different way.
 
