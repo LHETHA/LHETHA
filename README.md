@@ -8,7 +8,6 @@ Skills: Python | Project Management | Divergent Thinker | Open-Minded
 - 🌱 I’m currently learning Software Architecture Design Principles and DevSecOps. 
 - 📫 How to reach me: DM via Reddit, Discord, or find a different way.
 - I like VS Code.
-- Okay, Neovim is kinda good. Too bad I deleted all my configs, because Shift + L wasn't working anymore, just to restore the key combo, and losing 4h of my life because I spent so long editing and changing Neovim. And not only that, but GTK was also reset, as well as my Zsh. Still, the experience was better than the last three years of Windows 11. Yeah, not necessarily better if you have to redo the entire config because something was messing with the keyboard shortcuts system-wide. 
 
 [<img src='https://cdn.brandfetch.io/idkKITAql6/w/400/h/400/theme/light/icon.png?c=1dxbfHSJFAPEGdCLU4o5B' alt='hackerone' height='40'>](https://hackerone.com/lhetha)  
 
