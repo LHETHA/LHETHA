@@ -4,8 +4,8 @@ I'm a Cybersecurity student with a passion for languages: German (native), Engli
 
 Skills: Python | Project Management | Divergent Thinker | Open-Minded
 
-- 🔭 I’m currently working on an Automated Exploitation Framework. 
-- 🌱 I’m currently learning Software Architecture Design Principles and DevSecOps. 
+- 🔭 I’m currently learning Rust and specific Python libraries like scapy, socket, pyshark, httpx, and paramaiko. 
+- 🌱 I’m currently dealing with Software Architecture Design Principles and DevSecOps. 
 - 📫 How to reach me: DM via Reddit, Discord, or by opening an issue on GitHub.
 
 [<img src='https://cdn.brandfetch.io/idkKITAql6/w/400/h/400/theme/light/icon.png?c=1dxbfHSJFAPEGdCLU4o5B' alt='hackerone' height='40'>](https://hackerone.com/lhetha)  
