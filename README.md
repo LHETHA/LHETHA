@@ -1,4 +1,4 @@
-### <p align="center">I'm LHETHA.</p> <p align="center">
+### <p align="left">I'm LHETHA.</p> <p align="center">
 
 I'm a Cybersecurity student with a passion for languages: German (native), English (C2+ written, C1+ spoken), Russian (B1 written, A2+ spoken), & Japanese (A1 for both)
 
@@ -7,6 +7,12 @@ Skills: Python | Project Management | Divergent Thinker | Open-Minded
 - 🔭 I’m currently learning Rust and specific Python libraries like scapy, socket, pyshark, httpx, and paramaiko. 
 - 🌱 I’m currently dealing with Software Architecture Design Principles and DevSecOps. 
 - 📫 How to reach me: DM via Reddit, Discord, or by opening an issue on GitHub.
+
+### <p align="left">My GitHub Stats:</p> <p align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=LHETHA&theme=catppuccin-mocha&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+### <p align="left">My Socials:</p> <p align="center">
 
 [<img src='https://cdn.brandfetch.io/idkKITAql6/w/400/h/400/theme/light/icon.png?c=1dxbfHSJFAPEGdCLU4o5B' alt='hackerone' height='40'>](https://hackerone.com/lhetha)  
 
