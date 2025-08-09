@@ -2,7 +2,7 @@
 
 I'm a Cybersecurity student with a passion for languages: German (native), English (C2+ written, C1+ spoken), Russian (B1 written, A2+ spoken), & Japanese (A1 for both)
 
-Skills: Python | Project Management | Divergent Thinker | Open-Minded
+### Skills: Python | Project Management | Divergent Thinker | Open-Minded
 
 - 🔭 I’m currently learning Rust and specific Python libraries like scapy, socket, pyshark, httpx, and fabric. 
 - 🌱 I’m currently dealing with Software Architecture Design Principles and DevSecOps. 
