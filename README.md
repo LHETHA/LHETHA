@@ -4,7 +4,7 @@ I'm a Cybersecurity student with a passion for languages: German (native), Engli
 
 ### Skills: Python | Project Management | Divergent Thinker | Open-Minded
 
-- 🔭 I’m currently learning Rust and specific Python libraries like scapy, socket, pyshark, httpx, and fabric. 
+- 🔭 I’m currently learning Rust and specific Python libraries like scapy, socket, pyshark, httpx, argparse, and fabric. 
 - 🌱 I’m currently dealing with Software Architecture Design Principles and DevSecOps. 
 - 📫 How to reach me: DM via Reddit or Discord. Contributions to my public repos are appreciated.
 
