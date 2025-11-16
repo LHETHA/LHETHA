@@ -5,8 +5,7 @@ I'm a Cybersecurity student with a passion for languages: German (native), Engli
 ### Skills: Python | Project Management | Autonomy | Teaching and Studying 
 
 - 🔭 I’m currently learning specific Python libraries like scapy, socket, pyshark, httpx, argparse, and fabric. 
-- 🌱 I’m dealing with Rust and Java fundamentals at the moment. 
-- 📫 How to reach me: DM via Reddit or Discord. Contributions to my public repos are appreciated.
+- 🌱 I’m dealing with OOP in Java and fundamentals in Rust at the moment. 
 
 ### <p align="left">My GitHub Stats:</p> <p align="center">
 
@@ -15,6 +14,7 @@ I'm a Cybersecurity student with a passion for languages: German (native), Engli
 [![wakatime](https://wakatime.com/badge/user/2e0d1c01-c2c8-495a-9827-e64429b0e107.svg)](https://wakatime.com/@2e0d1c01-c2c8-495a-9827-e64429b0e107)
 
 ### <p align="left">My Socials:</p> <p align="center">
+<p>(some are inactive, though)</p>
 
 [<img src='https://cdn.brandfetch.io/idkKITAql6/w/400/h/400/theme/light/icon.png?c=1dxbfHSJFAPEGdCLU4o5B' alt='hackerone' height='40'>](https://hackerone.com/lhetha)  
 
