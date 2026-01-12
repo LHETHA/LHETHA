@@ -9,7 +9,7 @@ I'm a Cybersecurity student with a passion for languages: German (native), Engli
 
 ### <p align="left">My GitHub Stats:</p> <p align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LHETHA&theme=catppuccin-mocha&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=LHETHA&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![wakatime](https://wakatime.com/badge/user/2e0d1c01-c2c8-495a-9827-e64429b0e107.svg)](https://wakatime.com/@2e0d1c01-c2c8-495a-9827-e64429b0e107)
 
