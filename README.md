@@ -11,13 +11,9 @@ I'm a Cybersecurity student with a passion for languages: German (native), Engli
 [![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=LHETHA&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ### <p align="left">My Socials:</p> <p align="center">
-<p>(some are inactive, though)</p>
 
-[<img src='https://cdn.brandfetch.io/idkKITAql6/w/400/h/400/theme/light/icon.png?c=1dxbfHSJFAPEGdCLU4o5B' alt='hackerone' height='40'>](https://hackerone.com/lhetha)  
 
 [<img src='https://cdn.brandfetch.io/idZAyF9rlg/w/1000/h/410/theme/light/logo.png?c=1dxbfHSJFAPEGdCLU4o5B' alt='github' height='40'>](https://github.com/LHETHA) 
-
-[<img src='https://cdn.brandfetch.io/idkKwm0IT0/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B' alt='Reddit' height='40'>](https://www.reddit.com/user/LHETHA) 
 
 [<img src='https://cdn.brandfetch.io/id-M19oKfL/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B' alt='hackthebox' height='40'>](https://app.hackthebox.com/profile/overview) 
 
